@@ -28,29 +28,29 @@ Tidak wajib, namun saya lebih senang jika di-email dan SMS saya untuk notifikasi
 <a id="_Daftar_Isi"></a>
 Table of Contents
 
-[Pengantar](wikimuki.md#_Toc283974077)
+[Pengantar](README.md#_Toc283974077)
 
-[I. IT Governance](wikimuki.md#_Toc283974078)
+[I. IT Governance](README.md#_Toc283974078)
 
-[II. IS/IT Strategic Planning](wikimuki.md#_Toc283974079)
+[II. IS/IT Strategic Planning](README.md#_Toc283974079)
 
-[III. Managing IT Investment](wikimuki.md#_Toc283974080)
+[III. Managing IT Investment](README.md#_Toc283974080)
 
-[IV. Metodologi Penelitian](wikimuki.md#_Toc283974081)
+[IV. Metodologi Penelitian](README.md#_Toc283974081)
 
-[V. Prinsip-prinsip Sistem Informasi](wikimuki.md#_Toc283974082)
+[V. Prinsip-prinsip Sistem Informasi](README.md#_Toc283974082)
 
-[VI. Manajemen Resiko & Keamanan Sistem Informasi](wikimuki.md#_Toc283974083)
+[VI. Manajemen Resiko & Keamanan Sistem Informasi](README.md#_Toc283974083)
 
-[VII. Audit Sistem Informasi](wikimuki.md#_Toc283974084)
+[VII. Audit Sistem Informasi](README.md#_Toc283974084)
 
-[VIII. Decision Support Systems / Sistem Penunjang (Pengambilan) Keputusan](wikimuki.md#_Toc283974085)
+[VIII. Decision Support Systems / Sistem Penunjang (Pengambilan) Keputusan](README.md#_Toc283974085)
 
-[IX. Business Process Design & Reengineering](wikimuki.md#_Toc283974086)
+[IX. Business Process Design & Reengineering](README.md#_Toc283974086)
 
-[X. Arsitektur TI](wikimuki.md#_Toc283974087)
+[X. Arsitektur TI](README.md#_Toc283974087)
 
-[Kontak](wikimuki.md#_Toc283974088)
+[Kontak](README.md#_Toc283974088)
 
 <a id="_Toc283974078"></a>
 # I. IT Governance
@@ -93,7 +93,7 @@ Kuliah ini saya ngajar bareng atasan saya, pak Budi Yuwono, Ph.D., CISA. Doctora
 
 - Laporan hasil penelitian saya (disertasi 60%, belum selesai), tentunya tentang [IT Governance di BUMN](itgov/disertasi%20muki%20v7a.pdf). Ringkasan hasilnya ada di kotak-kotak hitam.
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974079"></a>
 # II. IS/IT Strategic Planning
@@ -164,7 +164,7 @@ Warning: ini bukan metodologi yang dipakai oleh kami saat consulting. Saya masih
 
 - Strategic flexibility dengan arsitektur yang adaptif
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974080"></a>
 # III. Managing IT Investment
@@ -218,7 +218,7 @@ Yang di bawah ini secara umum kuantitatif, kecuali disebutkan lain
 <a id="_Toc283974082"></a>
 # V. Prinsip-prinsip Sistem Informasi
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974083"></a>
 # VI. Manajemen Resiko & Keamanan Sistem Informasi
@@ -253,7 +253,7 @@ Materinya banyak bersumber dari buku CISSP-nya Shon Harris dan juga dari buku Ro
 
 - [IT Audit](security/CISA%20Auditing%202005.pdf)
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974084"></a>
 # VII. AuditSistem Informasi
@@ -262,14 +262,14 @@ Sebenarnya sudah ada kan saya tulis di bagian atas (di bagian sekuriti). Jadi ya
 
 - [Audit aplikasi](audit/anotasi%20slide%20audit%20aplikasi.pdf)
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974085"></a>
 # VIII. Decision Support Systems /Sistem Penunjang (Pengambilan) Keputusan
 
 Under construction
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974086"></a>
 # IX. Business Process Design & Reengineering
@@ -294,7 +294,7 @@ Ini dulu training, sebagian dari pak Budi Yuwono (sudah izin). Tapi metodologi k
 
 - Sesi 9: [Studi kasus pengukuran kinerja proses bisnis](bp/BP%209%20-%20Studi%20kasus%20pengukuran%20kinerja%20BP.pdf) (dr Pak Budi)
 
-[Back](wikimuki.md#_Daftar_Isi) to TOC
+[Back](README.md#_Daftar_Isi) to TOC
 
 <a id="_Toc283974087"></a>
 # X. Arsitektur TI
