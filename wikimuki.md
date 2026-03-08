@@ -126,7 +126,7 @@ Warning: ini bukan metodologi yang dipakai oleh kami saat consulting. Saya masih
 
 - Ward & Peppard [Chapter 9: Managing Information System & Technology Investments](spis/sis%202004%20chap%209.pdf)
 
-- [Kebijakan dan manajemen investasi TI (ada sedikit](spis/Sesi%209%20-%20IS%20IT%20investment.pdf) perbedaan dengan yang di atas, ada beberapa tambahan, spt costing, dsb.). Btw di section selanjutnya akan ada pembahasan khusus dari mata kuliah Managing IT Investment.
+- [Kebijakan dan manajemen investasi TI (ada sedikit](spis/Sesi%209%20-%20IS%20IT%20investment.pdf) perbedaan dengan yang di atas, ada beberapa tambahan, spt costing, dsb. Btw di section selanjutnya akan ada pembahasan khusus dari mata kuliah Managing IT Investment.
 
 - Strategic management & [cara menurunkan portofolio aplikasi](spis/application%20portfolio.pdf) (dari strategi)
 

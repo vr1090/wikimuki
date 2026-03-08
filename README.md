@@ -130,7 +130,7 @@ Warning: ini bukan metodologi yang dipakai oleh kami saat consulting. Saya masih
 
 - Strategic management & [cara menurunkan portofolio aplikasi](spis/application%20portfolio.pdf) (dari strategi)
 
-- [Information Architecture](spis/Sesi%206%20-%20Information%20Architecture%20%28short%20lecture%20&%20praktek%29.pdf) (short lecture). Kalo mau lihat yang lebih canggih, lihat kepunyaan Pak Budi, suhu-nya IT Architecture dengan pengalaman internasional, please [PgDn] yang banyak ya.
+- [Information Architecture](spis/Sesi%206%20-%20Information%20Architecture%20%28short%20lecture%20&%20praktek%29.pdf) (short lecture). Kalo mau lihat yang lebih canggih, lihat kepunyaan Pak Budi, suhu-nya IT Architecture dengan pengalaman internasional.
 
 - [Manajemen resiko implementasi](spis/Manajemen%20Resiko%20Implementasi%20IT%20Plan.pdf) IT Plan
 
@@ -322,4 +322,4 @@ Rencananya juga akan dipromosikan lewat LinkedIn.
 
 [CV saya juga ada di sini](CV-Muki%20v.10.md). Alhamdulillah, proyek spesialisasi saya, IT Planning, *selalu* dapat penghargaan/apresiasi tertulis dari klien. Insya Allah, kami berikan pelayanan bintang lima. Hubungi Pusilkom UI [di sini](https://web.archive.org/web/20110128213007/http://pusilkom.ui.ac.id/)
 
-Log perbaikan ada dapat dilihat [di sinii](log.md).
+Log perbaikan ada dapat dilihat [di sini](log.md).
