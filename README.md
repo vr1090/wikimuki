@@ -312,14 +312,14 @@ Ini semua slidenya pak Budi.
 
 Arrianto Mukti Wibowo,
 
-Email: [amwibowo@cs.ui.ac.id](https://web.archive.org/web/20110128213007/mailto:amwibowo@cs.ui.ac.id); [amwibowo@yahoo.com](https://web.archive.org/web/20110128213007/mailto:amwibowo@yahoo.com) HP: 0856-8012508 (plis sms aja dulu ya) Lewat Facebook juga bisa (kalau mau kenalan bilang saya tahu dari website open course wikimuki)
+Email: [amwibowo@cs.ui.ac.id](mailto:amwibowo@cs.ui.ac.id); [amwibowo@yahoo.com](mailto:amwibowo@yahoo.com) HP: 0856-8012508 (plis sms aja dulu ya) Lewat Facebook juga bisa (kalau mau kenalan bilang saya tahu dari website open course wikimuki)
 
 Kalau ingin mengikuti perkembang website ini (kalau ada tambahan) bisa follow via Twitter @amwibowo
 
-[](https://web.archive.org/web/20110128213007/http://twitter.com/#!/@amwibowo)
+[](https://twitter.com/amwibowo)
 
 Rencananya juga akan dipromosikan lewat LinkedIn.
 
-[CV saya juga ada di sini](CV-Muki%20v.10.md). Alhamdulillah, proyek spesialisasi saya, IT Planning, *selalu* dapat penghargaan/apresiasi tertulis dari klien. Insya Allah, kami berikan pelayanan bintang lima. Hubungi Pusilkom UI [di sini](https://web.archive.org/web/20110128213007/http://pusilkom.ui.ac.id/)
+[CV saya juga ada di sini](CV-Muki%20v.10.md). Alhamdulillah, proyek spesialisasi saya, IT Planning, *selalu* dapat penghargaan/apresiasi tertulis dari klien. Insya Allah, kami berikan pelayanan bintang lima. Hubungi Pusilkom UI [di sini](http://pusilkom.ui.ac.id/)
 
 Log perbaikan ada dapat dilihat [di sini](log.md).

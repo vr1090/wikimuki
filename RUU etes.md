@@ -6059,7 +6059,7 @@ negara ingin melakukan transaksi secara elektronik, tetap harus diatur oleh
 aturan lain. Misalnya Dirjen Pajak menyatakan bahwa laporan pajak bisa
 dilaporkan via website Ditjen Pajak. Tetapi Dirjen Pajak bisa jadi cukup
 mengeluarkan SK Dirjen dengan menyatakan bahwa laporan pajak bisa dikirim melalui
-[www.pajak.go.id](https://web.archive.org/web/20110131100803/http://www.pajak.go.id/) saja, tidak perlu
+[www.pajak.go.id](http://www.pajak.go.id/) saja, tidak perlu
 memusingkan apakah laporan pajak elektronik itu legal atau tidak (karena sudah
 ditangani dengan adanya undang-undang ETES ini).
 
