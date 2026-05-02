@@ -5,7 +5,7 @@ description: >-
   Security, dan lainnya — gratis untuk seluruh anak bangsa.
 author: Arrianto Mukti Wibowo
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: CloudCannon/serif-jekyll-theme
 
 plugins:
   - jekyll-remote-theme
@@ -13,10 +13,6 @@ plugins:
 # Site URL — update to your actual GitHub Pages URL
 # url: "https://YOUR_USERNAME.github.io"
 # baseurl: "/wikimuki"
-
-# Navigation order for top-level pages
-nav_enabled: true
-search_enabled: true
 
 # Exclude non-site files
 exclude:
