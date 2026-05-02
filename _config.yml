@@ -1,0 +1,59 @@
+title: WikiMuki
+description: >-
+  Website Kuliah Gratis oleh Arrianto Mukti Wibowo, M.Sc., CISA.
+  Materi kuliah Sistem Informasi, IT Governance, Business Process,
+  Security, dan lainnya — gratis untuk seluruh anak bangsa.
+author: Arrianto Mukti Wibowo
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# Site URL — update to your actual GitHub Pages URL
+# url: "https://YOUR_USERNAME.github.io"
+# baseurl: "/wikimuki"
+
+# Navigation order for top-level pages
+nav_enabled: true
+search_enabled: true
+
+# Exclude non-site files
+exclude:
+  - .venv/
+  - .gitignore
+  - log.md
+  - "wikimuki_files/"
+
+# Collections for subfolders
+collections:
+  bp:
+    output: true
+    permalink: /bp/:name/
+  itgov:
+    output: true
+    permalink: /itgov/:name/
+  spis:
+    output: true
+    permalink: /spis/:name/
+  security:
+    output: true
+    permalink: /security/:name/
+  audit:
+    output: true
+    permalink: /audit/:name/
+  miti:
+    output: true
+    permalink: /miti/:name/
+  metolit:
+    output: true
+    permalink: /metolit/:name/
+  piti:
+    output: true
+    permalink: /piti/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
