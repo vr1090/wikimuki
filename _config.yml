@@ -5,10 +5,14 @@ description: >-
   Security, dan lainnya — gratis untuk seluruh anak bangsa.
 author: Arrianto Mukti Wibowo
 
-theme: jekyll-theme-hacker
+remote_theme: academicpages/academicpages.github.io
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Site URL — update to your actual GitHub Pages URL
-# url: "https://YOUR_USERNAME.github.io"
+# url: "https://vr1090.github.io"
 # baseurl: "/wikimuki"
 
 # Exclude non-site files
