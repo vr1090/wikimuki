@@ -5,10 +5,7 @@ description: >-
   Security, dan lainnya — gratis untuk seluruh anak bangsa.
 author: Arrianto Mukti Wibowo
 
-remote_theme: CloudCannon/serif-jekyll-theme
-
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-hacker
 
 # Site URL — update to your actual GitHub Pages URL
 # url: "https://YOUR_USERNAME.github.io"
