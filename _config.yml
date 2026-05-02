@@ -5,11 +5,12 @@ description: >-
   Security, dan lainnya — gratis untuk seluruh anak bangsa.
 author: Arrianto Mukti Wibowo
 
-remote_theme: academicpages/academicpages.github.io
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
 
 # Site URL — update to your actual GitHub Pages URL
 # url: "https://vr1090.github.io"
